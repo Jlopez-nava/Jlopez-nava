@@ -8,15 +8,15 @@ My work sits at the intersection of growth strategy, lifecycle marketing, paid a
 
 ### [AI Growth Intelligence Auditor](https://github.com/Jlopez-nava/ai-growth-intelligence-auditor)
 
-An evidence-backed audit system for B2B SaaS and technology companies. It reviews website positioning, conversion paths, SEO signals, competitive context, and free-to-paid lifecycle messaging—then turns the evidence into a prioritized executive brief.
+An evidence-backed audit system for B2B SaaS and technology companies. It reviews website positioning, conversion paths, SEO signals, and competitive context—then turns the evidence into a prioritized executive brief. A fictional lifecycle concept shows how the framework can extend across the customer journey.
 
 **What it demonstrates:** growth strategy, lifecycle thinking, competitive intelligence, structured AI analysis, and safety-conscious browser automation.
 
 ### [Google Ads Growth Analyst](https://github.com/Jlopez-nava/google-ads-growth-analyst)
 
-A decision system that syncs Google Ads data, reconciles delayed conversions, monitors data health, and surfaces high-value optimization opportunities with human approval guardrails.
+A read-only decision dashboard that turns a fictional Google Ads snapshot into prioritized opportunities across spend, search terms, budget, and visibility—while keeping every next step human-owned.
 
-**What it demonstrates:** paid-search strategy, reliable data pipelines, decision dashboards, and responsible automation.
+**What it demonstrates:** paid-search strategy, marketing analytics, decision dashboards, and responsible automation design.
 
 ## How I approach AI + marketing
 

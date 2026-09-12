@@ -26,10 +26,6 @@ A read-only decision dashboard that turns a fictional Google Ads snapshot into p
 - Design the output for the person who needs to act on it.
 - Treat privacy, credentials, and customer data as product requirements.
 
-## Focus areas
-
-`Growth strategy` · `Lifecycle & CRM` · `Paid search` · `CRO` · `Competitive intelligence` · `AI workflows` · `Marketing analytics`
-
 ---
 
 I’m continuing to turn real marketing workflows into focused, explainable AI tools. The repositories below document both the product thinking and the implementation behind them.

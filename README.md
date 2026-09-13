@@ -24,6 +24,12 @@ A Profound workflow that detects competitive movement in AI search visibility, t
 
 **What it demonstrates:** AI-search strategy, competitive intelligence, content operations, evidence-grounded agent design, and cross-tool workflow automation.
 
+### [AI Competitive Content Response Agent](https://github.com/Jlopez-nava/ai-competitive-content-response-agent)
+
+A Profound workflow that watches a competitor's citation traction and positive validation, applies a decision threshold, and turns qualified signals into sourced content and sales-enablement drafts for human review.
+
+**What it demonstrates:** signal-based automation, AI-search competitive intelligence, evidence-led content strategy, cross-functional workflow design, and responsible human-in-the-loop execution.
+
 ## How I approach AI + marketing
 
 - Start with the business decision, not the model.

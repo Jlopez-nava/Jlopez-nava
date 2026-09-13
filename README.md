@@ -18,6 +18,12 @@ A read-only decision dashboard that turns a fictional Google Ads snapshot into p
 
 **What it demonstrates:** paid-search strategy, marketing analytics, decision dashboards, and responsible automation design.
 
+### [AI Visibility Competitor Monitor](https://github.com/Jlopez-nava/ai-visibility-competitor-monitor)
+
+A Profound workflow that detects competitive movement in AI search visibility, traces changes to citation-earning pages, and converts the evidence into weekly analysis, alerts, and actionable content briefs.
+
+**What it demonstrates:** AI-search strategy, competitive intelligence, content operations, evidence-grounded agent design, and cross-tool workflow automation.
+
 ## How I approach AI + marketing
 
 - Start with the business decision, not the model.
@@ -25,6 +31,10 @@ A read-only decision dashboard that turns a fictional Google Ads snapshot into p
 - Build guardrails around anything that can change spend or customer experiences.
 - Design the output for the person who needs to act on it.
 - Treat privacy, credentials, and customer data as product requirements.
+
+## Focus areas
+
+`Growth strategy` · `Lifecycle & CRM` · `Paid search` · `CRO` · `Competitive intelligence` · `AI workflows` · `Marketing analytics`
 
 ---
 

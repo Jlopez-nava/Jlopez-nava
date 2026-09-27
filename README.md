@@ -6,6 +6,14 @@ My work sits at the intersection of growth strategy, lifecycle marketing, paid a
 
 ## Featured work
 
+### [GrowthOS](https://github.com/Jlopez-nava/GrowthOS)
+
+**Work in progress · early preview**
+
+A marketing intelligence workbench for agencies managing multiple brands and in-house teams focused on one business. It brings acquisition metrics, paid-program performance, and brand-specific funnels together with evidence to help marketers decide what to do next. Includes fictional dashboards and setup guides for connecting each brand’s own reporting tools.
+
+**What it demonstrates:** marketing analytics, multi-brand product design, paid acquisition, funnel analysis, and practical reporting integrations.
+
 ### [AI Growth Intelligence Auditor](https://github.com/Jlopez-nava/ai-growth-intelligence-auditor)
 
 An evidence-backed audit system for B2B SaaS and technology companies. It reviews website positioning, conversion paths, SEO signals, and competitive context—then turns the evidence into a prioritized executive brief. A fictional lifecycle concept shows how the framework can extend across the customer journey.
